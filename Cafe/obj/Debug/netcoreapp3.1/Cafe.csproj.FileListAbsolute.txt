@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Apps\Cafe\Cafe\obj\Debug\netcoreapp3.1\Cafe.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Apps\Cafe\Cafe\obj\Debug\netcoreapp3.1\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Apps\Cafe\Cafe\obj\Debug\netcoreapp3.1\Cafe.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Apps\Cafe\Cafe\obj\Debug\netcoreapp3.1\Cafe.AssemblyInfo.cs
+C:\Users\User\Documents\Apps\Cafe\Cafe\obj\Debug\netcoreapp3.1\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Apps\Cafe\Cafe\bin\Debug\netcoreapp3.1\Cafe.exe
+C:\Users\User\Documents\Apps\Cafe\Cafe\bin\Debug\netcoreapp3.1\Cafe.deps.json
+C:\Users\User\Documents\Apps\Cafe\Cafe\bin\Debug\netcoreapp3.1\Cafe.runtimeconfig.json
+C:\Users\User\Documents\Apps\Cafe\Cafe\bin\Debug\netcoreapp3.1\Cafe.runtimeconfig.dev.json
+C:\Users\User\Documents\Apps\Cafe\Cafe\bin\Debug\netcoreapp3.1\Cafe.dll
+C:\Users\User\Documents\Apps\Cafe\Cafe\bin\Debug\netcoreapp3.1\Cafe.pdb
+C:\Users\User\Documents\Apps\Cafe\Cafe\obj\Debug\netcoreapp3.1\Cafe.dll
+C:\Users\User\Documents\Apps\Cafe\Cafe\obj\Debug\netcoreapp3.1\Cafe.pdb
+C:\Users\User\Documents\Apps\Cafe\Cafe\obj\Debug\netcoreapp3.1\Cafe.genruntimeconfig.cache
